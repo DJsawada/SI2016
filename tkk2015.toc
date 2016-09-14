@@ -1,0 +1,15 @@
+\contentsline {section}{\numberline {\par １.}はじめに}{1}
+\contentsline {subsection}{\numberline {\par １.\par １.}研究の背景}{1}
+\contentsline {subsection}{\numberline {\par １.\par ２.}研究の目的}{1}
+\contentsline {section}{\numberline {\par ２.}飲食店での接客について}{2}
+\contentsline {subsection}{\numberline {\par ２.\par １.}接客の仕事内容}{2}
+\contentsline {subsection}{\numberline {\par ２.\par ２.}研究として検討する仕事}{3}
+\contentsline {subsection}{\numberline {\par ２.\par ３.}今年度のロボット}{3}
+\contentsline {section}{\numberline {\par ３.}Julius}{3}
+\contentsline {section}{\numberline {\par ４.}Open-JTalk}{4}
+\contentsline {section}{\numberline {\par \par ５.}TCP/IP}{4}
+\contentsline {section}{\numberline {\par ６.}研究手順}{4}
+\contentsline {section}{\numberline {\par ７.}研究結果}{4}
+\contentsline {section}{\numberline {\par ８.}考察}{4}
+\contentsline {section}{\numberline {\par ９.}おわりに}{5}
+\contentsline {section}{\numberline {付録A.}今回使用したもの}{6}
